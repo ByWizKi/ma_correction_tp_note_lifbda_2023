@@ -12,4 +12,4 @@ Pour exécuter un fichier SQL avec PSQL, utilisez cette commande :
 ```
 
 Copyright : ByWizKi
-Fichier créé par : Fabien De Marchi
+Sujet créé par : Fabien De Marchi
